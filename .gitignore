@@ -1,0 +1,14 @@
+.DS_Store*
+node_modules
+.sass-cache
+config.local.php
+database.local.php
+cms/expressionengine/cache/*
+gulp-logs
+composer.lock
+vendor/*
+public/lib/data/*
+
+# local certs
+uww.dev.crt
+uww.dev.key
