@@ -1,0 +1,22 @@
+{
+  "name": "formRestyler",
+  "version": "0.1.0",
+  "description": "Grab form fields and labels from lousy markup and then reprint them as you please",
+  "main": "form-restyler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dtipson/formRestyler"
+  },
+  "author": "Drew Tipson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtipson/formRestyler/issues"
+  },
+  "homepage": "https://github.com/dtipson/formRestyler",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
+}
